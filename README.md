@@ -11,7 +11,7 @@
 <ul>
   <li>💻 I'm a Developer from <b><img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brazil</b>;</li>
   <li>😊 Follow my videos on <a href="https://www.youtube.com/channel/UCXmdrz2OC_vPDovCYSQfNlQ"><img src="https://image.flaticon.com/icons/svg/1384/1384060.svg" width="13"/> <b>Recreating</b></a>;</li>
-  <li>😍 I really like Javascript, Next.js React JS, React Native, ReactJS, Typescript and NodeJS</li>
+  <li>😍 I really like Javascript, Next.js, React JS, React Native, Typescript and NodeJS</li>
 </ul>
 
 ## Tech Stack
@@ -19,7 +19,7 @@
 <p>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/Next%20JS%20-%2320232a.svg?&style=for-the-badge&logo=Next.js&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/React JS%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
